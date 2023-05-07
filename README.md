@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil de Suelen Cardoso!
 
 <h3>Sempre fui apaixonada por computador, games, tecnologias em geral.
-Atualmente estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
+Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
 E estou aprofundando meus conhecimentos em Desenvolvimento Web com o curso DevQuest.
 Sou uma pessoa proativa. Comunicativa e colaborativa. 
 Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
