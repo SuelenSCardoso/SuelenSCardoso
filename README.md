@@ -7,6 +7,8 @@ Meus hobbies são, jogar video games, música, cinema e me aventurar na cozinha.
 Sou uma pessoa proativa. Comunicativa e colaborativa. 
 Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
 
+<br>
+
 <h3>🧝‍♀️ Soft Skills:</h3>
 <ul>
  <li>Trabalho em Equipe</li>
