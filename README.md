@@ -1,4 +1,4 @@
-## Olá, eu sou a Suelen Cardoso! 🧝‍♀️
+## Olá, eu sou a Suelen Cardoso!
 
 <h3>Sempre fui apaixonada por computador, games, tecnologias em geral.
 Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
@@ -6,7 +6,7 @@ E estou aprofundando meus conhecimentos em Desenvolvimento Web com o curso DevQu
 Sou uma pessoa proativa. Comunicativa e colaborativa. 
 Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
 
-<h3>Soft Skills:</h3>
+<h3>🧝‍♀️ Soft Skills:</h3>
 <ul>
  <li>Trabalho em Equipe</li>
  <li>Proatividade</li>
@@ -26,7 +26,7 @@ Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
  <br> 
 
 <div style="display: inline_block"><br>
- <h3>Tecnologias Praticadas até o momento:</h3>
+ <h3>👩‍💻 Tecnologias Praticadas até o momento:</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
