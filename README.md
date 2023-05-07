@@ -1,5 +1,13 @@
 ## Bem-vindo(a) ao perfil de Suelen Cardoso!
 
+<h2>Sempre fui apaixonada por computador, games, tecnologias em geral.
+Me aventurei em algumas áreas, Saúde, Educação, mas recentemente voltei para a tecnologia.
+Atualmente estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
+E estou aprofundando meus conhecimentos em Desenvolvimento Web com o curso DevQuest.</h2>
+
+<h2>Soft Skills:</h2>
+<h3>Sou uma pessoa proativa. Comunicativa e colaborativa. Sempre buscando compartilhar idéias, aprender e superar desafios. </h3>
+
  <div>
    <a href="https://github.com/SuelenSCardoso">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuelenSCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
