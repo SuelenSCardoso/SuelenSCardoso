@@ -1,4 +1,4 @@
-## Olá, eu sou Suelen Cardoso! 👩‍🚀
+## Olá, eu sou a Suelen Cardoso! 🧝‍♀️
 
 <h3>Sempre fui apaixonada por computador, games, tecnologias em geral.
 Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
@@ -22,6 +22,10 @@ Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuelenSCardoso&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+ 
+ <br>
+ 
+ <h3>Técnologias Usadas:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
