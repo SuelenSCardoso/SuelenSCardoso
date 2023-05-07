@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Suelen Cardoso!
+## Olá, eu sou Suelen Cardoso! 👩‍🚀
 
 <h3>Sempre fui apaixonada por computador, games, tecnologias em geral.
 Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
