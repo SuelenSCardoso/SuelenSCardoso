@@ -1,10 +1,11 @@
 ## Olá, eu sou a Suelen Cardoso!
 
-<h3>Sempre fui apaixonada por computador, games, tecnologias em geral.
+<h4>Sempre fui apaixonada por computador, games, tecnologias em geral.
 Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
 E estou aprofundando meus conhecimentos em Desenvolvimento Web com o curso DevQuest.
+Meus hobbies são, jogar video games, música, cinema e me aventurar na cozinha.
 Sou uma pessoa proativa. Comunicativa e colaborativa. 
-Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
+Sempre buscando compartilhar idéias, aprender e superar desafios.</h4>
 
 <h3>🧝‍♀️ Soft Skills:</h3>
 <ul>
