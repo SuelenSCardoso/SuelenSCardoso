@@ -13,6 +13,7 @@ Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
  <li>Proatividade</li>
  <li>Relacionamento Interpessoal</li>
  <li>Espirito Colaborativo</li>
+ <li>Comunicação</li>
 </ul>
 
 <br>
