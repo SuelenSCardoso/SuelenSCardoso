@@ -5,7 +5,7 @@ Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estáci
 E estou aprofundando meus conhecimentos em Desenvolvimento Web com o curso DevQuest.
 Meus hobbies são, jogar video game, músicas, séries, filmes de terror, nerd.
 Sou uma pessoa proativa. Comunicativa e colaborativa. 
-Sempre buscando compartilhar idéias, aprender e superar desafios.</h3>
+Sempre buscando compartilhar idéias, aprender coisas novas e superar desafios.</h3>
 
 <br>
 
