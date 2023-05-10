@@ -11,11 +11,12 @@ Sempre buscando compartilhar idéias, aprender coisas novas e superar desafios.<
 
 <h3>🧝‍♀️ Soft Skills:</h3>
 <ul>
- <li>Trabalho em Equipe</li>
- <li>Proatividade</li>
+ <li>Capacidade de trabalhar em equipe</li>
+ <li>Proatividade e disposição para aprender</li>
  <li>Relacionamento Interpessoal</li>
  <li>Espirito Colaborativo</li>
- <li>Comunicação</li>
+ <li>Comunicação eficiente</li>
+ <li>Foco na qualidade e atenção aos detalhes</li>
 </ul>
 
 <br>
