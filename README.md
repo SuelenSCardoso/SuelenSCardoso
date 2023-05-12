@@ -30,7 +30,6 @@ Sempre buscando compartilhar idéias, aprender coisas novas e superar desafios.<
  
  <br> 
  
- 
 
 <div style="display: inline_block"><br>
  <h3>👩‍💻 Tecnologias Praticadas até o momento:</h3>
