@@ -1,11 +1,9 @@
 ## Olá, eu sou a Suelen Cardoso!
 
-<h3>Sempre fui apaixonada por computador, games, tecnologias em geral.
-Atualmente, estudo Gestão da Tecnologia da Informação na Universidade Estácio de Sá.
-E estou aprofundando meus conhecimentos em Desenvolvimento Web com o curso DevQuest.
-Meus hobbies são, jogar video game, músicas, séries, filmes de terror, nerd.
-Sou uma pessoa proativa. Comunicativa e colaborativa. 
-Sempre buscando compartilhar idéias, aprender coisas novas e superar desafios.</h3>
+<h3>Sempre fui apaixonada por computador, games e tecnologias em geral.
+Em 2019 decidi mudar meu curso de Pedagogia para Gestão da Tecnologia da Informação. Em 2020, com a explosão do Corona Vírus, entrei de cabeça no Desenvolvimento Web. 
+Hoje, estou em busca da minha primeira vaga. Sou uma pessoa proativa, comunicativa. 
+Sempre buscando compartilhar ideias, aprender coisas novas e superar desafios. </h3>
 
 <br>
 
@@ -32,7 +30,7 @@ Sempre buscando compartilhar idéias, aprender coisas novas e superar desafios.<
  
 
 <div style="display: inline_block"><br>
- <h3>👩‍💻 Tecnologias Praticadas até o momento:</h3>
+ <h3>👩‍💻 Tecnologias:</h3>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
